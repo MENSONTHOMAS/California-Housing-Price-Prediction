@@ -6,7 +6,7 @@ This project applies various regression algorithms to predict the median house p
 ## Dataset Description
 
 The dataset consists of features that describe housing districts in California, including:
-MedInc: Median income in block group
+- MedInc: Median income in block group
 - HouseAge: Median house age in block group
 - AveRooms: Average number of rooms per household
 - AveBedrms: Average number of bedrooms per household
