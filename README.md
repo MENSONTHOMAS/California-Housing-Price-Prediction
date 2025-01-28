@@ -26,7 +26,7 @@ We evaluated the following regression models:
 - AdaBoost Regressor
 - MLP Regressor (Neural Network)
 
-Key Insights
+## Key Insights
 
 - Best Model: Random Forest Regressor (Highest R² Score: 0.83, Lowest Error Metrics)
 - Worst Model: AdaBoost Regressor (Lowest R² Score: 0.56, Highest Error Metrics)
