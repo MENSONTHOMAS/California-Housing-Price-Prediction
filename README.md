@@ -1,4 +1,4 @@
-# California-Housing-Price-Prediction
+# *California Housing Price Prediction*
 ## Overview
 
 This project applies various regression algorithms to predict the median house prices in California based on multiple housing-related features. The dataset used is the California Housing Dataset available in the sklearn library.
