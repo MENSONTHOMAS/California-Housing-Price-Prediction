@@ -1,9 +1,9 @@
 # *California Housing Price Prediction*
-## Overview
+## **Overview**
 
 This project applies various regression algorithms to predict the median house prices in California based on multiple housing-related features. The dataset used is the California Housing Dataset available in the sklearn library.
 
-## Dataset Description
+## **Dataset Description**
 
 The dataset consists of features that describe housing districts in California, including:
 - MedInc: Median income in block group
@@ -15,7 +15,7 @@ The dataset consists of features that describe housing districts in California, 
 - Latitude: Latitude of block group
 - Longitude: Longitude of block group
 
-## Regression Models Used
+## **Regression Models Used**
 
 We evaluated the following regression models:
 - Linear Regression
@@ -26,7 +26,7 @@ We evaluated the following regression models:
 - AdaBoost Regressor
 - MLP Regressor (Neural Network)
 
-## Key Insights
+## **Key Insights**
 
 - Best Model: Random Forest Regressor (Highest R² Score: 0.83, Lowest Error Metrics)
 - Worst Model: AdaBoost Regressor (Lowest R² Score: 0.56, Highest Error Metrics)
